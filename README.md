@@ -36,6 +36,7 @@ Option_Pricing_Analysis.pdf
 
 ## Authors
 
-Ritabrata Sadhukhan  
+Ritabrata Sadhukhan
+Rupak Chanda
 B.Sc. Statistics  
 Kalyani Mahavidyalaya
